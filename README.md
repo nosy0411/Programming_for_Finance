@@ -4,3 +4,5 @@
 2. Bond_study
 3. Portfolio_study
 4. Derivatives_study
+5. Timeseries_study
+6. System trading
