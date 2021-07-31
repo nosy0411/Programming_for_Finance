@@ -59,6 +59,7 @@ local.properties
 ------------------------------------------------------------------------------
 # 특정 파일
 tempCodeRunnerFile.py
+.DS_Store
 
 # 시크릿 키 관리
 secrets.json
